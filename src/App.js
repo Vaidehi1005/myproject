@@ -2,12 +2,12 @@ import logo from "./logo.svg";
 import "./App.css";
 import Greet from "./components/greet";
 
-class App extends Component {
-  render() {
-    return <div className="App">
+function App() {
+  return (
+    <div className="App">
       <Greet />
-    </div>;
-  }
+    </div>
+  );
 }
 
 export default App;
