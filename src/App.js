@@ -5,7 +5,7 @@ import Greet from "./components/greet";
 class App extends Component {
   render() {
     return <div className="App">
-      
+      <Greet></Greet>
     </div>;
   }
 }
