@@ -12,9 +12,11 @@ function App() {
       <Greet name="Vaidehi" heroName="Spiderman">
         <p>This is a children props</p>
       </Greet>
-      <Greet name="Parthvi" heroName="Batman" />
+      <Greet name="Parthvi" heroName="Batman" >
+        <button>Applied</button>
+      </Greet>
       <Greet name="Shivansh" heroName="Ironman"/>
-      {/* <Welcome /> */}
+      <Welcome />
       {/* <Hello /> */}
     </div>
   );
