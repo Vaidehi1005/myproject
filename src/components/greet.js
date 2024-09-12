@@ -9,4 +9,4 @@ import React from "react";
 // export default Greet;
 
 // functional components use optionally a props and it is normally js function that returns the jsx or html  
-// components no code reuse kari sakie 
+// components no code reuse kari sakie and props ek optional property che je componenet accept kare input 
