@@ -9,9 +9,11 @@ import Hello from "./components/hello";
 function App() {
   return (
     <div className="App">
-      <Greet name="Vaidehi" />
-      <Greet name="Parthvi" />
-      <Greet name="Shivansh" />
+      <Greet name="Vaidehi" heroName="Spiderman">
+        <p>This is a children props</p>
+      </Greet>
+      <Greet name="Parthvi" heroName="Batman" />
+      <Greet name="Shivansh" heroName="Ironman"/>
       {/* <Welcome /> */}
       {/* <Hello /> */}
     </div>
