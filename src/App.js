@@ -5,13 +5,14 @@ import { Greet } from "./components/greet";
 import Welcome from "./components/Welcome";
 import Hello from "./components/hello";
 
-
 function App() {
   return (
     <div className="App">
-      {/* <Greet />
-      <Welcome /> */}
-      <Hello />
+      <Greet />
+      <Greet />
+      <Greet />
+      {/* <Welcome /> */}
+      {/* <Hello /> */}
     </div>
   );
 }

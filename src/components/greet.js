@@ -7,3 +7,6 @@ import React from "react";
  export const Greet = () => <h1>Hello Vaidehi</h1>;
 
 // export default Greet;
+
+// functional components use optionally a props and it is normally js function that returns the jsx or html  
+// components no code reuse kari sakie 
