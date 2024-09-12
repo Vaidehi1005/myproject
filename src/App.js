@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { Greet } from "./components/greet";
+// import { Greet } from "./components/greet";
+import Greet from "./components/greet";
 // import my from "./components/greet";
 import Welcome from "./components/Welcome";
 import Hello from "./components/hello";
