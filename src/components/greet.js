@@ -5,6 +5,7 @@ import React from "react";
 // }
 
 //  export const Greet = () => <h1>Hello Vaidehi</h1>;
+// direct export greet function ne upar na method thi kari devanu and export karie to aa import ma pn same j name rakhvanu export ma che e  
 const Greet = (props) => {
   console.log(props);
   return (
