@@ -16,4 +16,4 @@ const Hello = () => {
   );
 };
 
-export defa
+export default Hello;
