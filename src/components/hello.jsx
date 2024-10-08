@@ -16,5 +16,5 @@ const Hello = () => {
     React.createElement("h1", null, "Hello Vaidehi")
   );
 };
-
+// aa method without jsx che and aama 3 return React.createElement() karvanu ema element banavanu pela 1st parameter element aavse and 2nd parameter additional properties 
 export default Hello
