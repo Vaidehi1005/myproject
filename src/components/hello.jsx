@@ -2,7 +2,7 @@ import React from "react";
 
 const Hello = () => {
   //   return(
-  //       <div>
+  //       <div className:"bunny"> 
   //           <h1>Hello Vaidehi!</h1>
   //       </div>
   //   )
@@ -16,4 +16,4 @@ const Hello = () => {
   );
 };
 
-export default Hello;
+export default Hello
