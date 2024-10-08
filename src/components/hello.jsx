@@ -7,6 +7,7 @@ const Hello = () => {
   //       </div>
   //   )
   // }
+  // aa upar valu je che e jsx use kaine lakyhu che 
   // aapde ek simple functional component banaie che and aapde ema div return karie che jema h1 tag che
 
   return React.createElement(
