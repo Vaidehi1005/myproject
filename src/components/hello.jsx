@@ -16,5 +16,5 @@ const Hello = () => {
     React.createElement("h1", null, "Hello Vaidehi")
   );
 };
-// aa method without jsx che and aama 3 return React.createElement() karvanu ema element banavanu pela 1st parameter element aavse and 2nd parameter additional properties and 3 property ma element aavse if navu element banavu hase to then ema farithi reactcreateelement karvanu then pachu je element lakhvu hoi e element then 2nd pm par 
+// aa method without jsx che and aama 3 return React.createElement() karvanu ema element banavanu pela 1st parameter element aavse and 2nd parameter additional properties and 3 property ma element aavse if navu element banavu hase to then ema farithi reactcreateelement karvanu then pachu je element lakhvu hoi e element then 2nd pm par key value pairs che & 100 elements hoi to code clumsy bani jai
 export default Hello;
