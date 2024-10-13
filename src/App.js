@@ -7,17 +7,21 @@ import Welcome from "./components/Welcome";
 import Hello from "./components/hello";
 import { Component } from "react";
 
-// class App extends Component{
-//   render () {
-//     return(
-//       <div className="App">
-//         {/* <Greet /> */}
-//         {/* <Welcome /> */}
-//         {/* <Hello /> */}
-//       </div>
-//     )
-//   }
-// }
+// class App extends Component {
+//   render() {
+//     return (
+//       < className="App">
+{
+  /* <Greet /> */
+}
+{
+  /* <Welcome /> */
+}
+{
+  /* <Hello /> */
+}
+//       </
+
 function App() {
   return (
     <div className="App">

@@ -16,3 +16,5 @@ class Welcome extends Component {
 export default Welcome;
 
 // class component can optionally recieve the propss and returns the html and it maintains a private internal state and it maintain some information to describe the user interface and jyare class component define karie tyare 2 vastu import karvani ek react ne ek component and then ena pachi step1 class classname extends component {} step2 ema render method use karvani je return html karse ka to null
+
+// class components ni value joie to this.props.name thi o/p malse
