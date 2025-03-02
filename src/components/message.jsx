@@ -3,7 +3,10 @@ import React, { Component } from "react";
 class Message extends Component {
 
   constructor(){
-        super()
+        super()//super no matlab che k aapde react no component class extend karie che so e parent class ni properties lejo e new class message ma 
+        this.state={
+
+        }//aa ek obj che je message mate banayu che 
   }
 
   render() {
