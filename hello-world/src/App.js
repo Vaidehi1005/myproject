@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. as this is by default when we install a react app so we have to edit in src in app.js */}
-          Hello World, My name is Vaidehi.
+          Hello World! My name is Vaidehi.
         </p>
         <a
           className="App-link"
